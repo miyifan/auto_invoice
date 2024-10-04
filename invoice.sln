@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "invoice", "invoice\invoice.pyproj", "{86867D12-DDE2-44DD-A4DC-85F38D08A1B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86867D12-DDE2-44DD-A4DC-85F38D08A1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86867D12-DDE2-44DD-A4DC-85F38D08A1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDD919B-C698-4BC5-928A-498C393D1B4D}
+	EndGlobalSection
+EndGlobal
